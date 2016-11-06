@@ -1,49 +1,66 @@
 @font-face {
-  font-family: "MyriadProRegular";
-  src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
-  src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"), url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal; }
+	font-family: "MyriadProRegular";
+	src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+	src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"), url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
 
 /* font-family: "MyriadProBold"; */
+
 @font-face {
-  font-family: "MyriadProBold";
-  src: url("../fonts/MyriadProBold/MyriadProBold.eot");
-  src: url("../fonts/MyriadProBold/MyriadProBold.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProBold/MyriadProBold.woff") format("woff"), url("../fonts/MyriadProBold/MyriadProBold.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal; }
+	font-family: "MyriadProBold";
+	src: url("../fonts/MyriadProBold/MyriadProBold.eot");
+	src: url("../fonts/MyriadProBold/MyriadProBold.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProBold/MyriadProBold.woff") format("woff"), url("../fonts/MyriadProBold/MyriadProBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
 
 /* font-family: "MyriadProItalic"; */
+
 @font-face {
-  font-family: "MyriadProItalic";
-  src: url("../fonts/MyriadProItalic/MyriadProItalic.eot");
-  src: url("../fonts/MyriadProItalic/MyriadProItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProItalic/MyriadProItalic.woff") format("woff"), url("../fonts/MyriadProItalic/MyriadProItalic.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal; }
+	font-family: "MyriadProItalic";
+	src: url("../fonts/MyriadProItalic/MyriadProItalic.eot");
+	src: url("../fonts/MyriadProItalic/MyriadProItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProItalic/MyriadProItalic.woff") format("woff"), url("../fonts/MyriadProItalic/MyriadProItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
 
 /* font-family: "MyriadProSemiBold"; */
+
 @font-face {
-  font-family: "MyriadProSemiBold";
-  src: url("../fonts/MyriadProSemiBold/MyriadProSemiBold.eot");
-  src: url("../fonts/MyriadProSemiBold/MyriadProSemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProSemiBold/MyriadProSemiBold.woff") format("woff"), url("../fonts/MyriadProSemiBold/MyriadProSemiBold.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal; }
+	font-family: "MyriadProSemiBold";
+	src: url("../fonts/MyriadProSemiBold/MyriadProSemiBold.eot");
+	src: url("../fonts/MyriadProSemiBold/MyriadProSemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProSemiBold/MyriadProSemiBold.woff") format("woff"), url("../fonts/MyriadProSemiBold/MyriadProSemiBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
 
 /* font-family: "MyriadProBoldItalic"; */
+
 @font-face {
-  font-family: "MyriadProBoldItalic";
-  src: url("../fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot");
-  src: url("../fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProBoldItalic/MyriadProBoldItalic.woff") format("woff"), url("../fonts/MyriadProBoldItalic/MyriadProBoldItalic.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal; }
+	font-family: "MyriadProBoldItalic";
+	src: url("../fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot");
+	src: url("../fonts/MyriadProBoldItalic/MyriadProBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProBoldItalic/MyriadProBoldItalic.woff") format("woff"), url("../fonts/MyriadProBoldItalic/MyriadProBoldItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
 
 /* font-family: "MyriadProSemiBoldItalic"; */
+
 @font-face {
-  font-family: "MyriadProSemiBoldItalic";
-  src: url("../fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot");
-  src: url("../fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.woff") format("woff"), url("../fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal; }
+	font-family: "MyriadProSemiBoldItalic";
+	src: url("../fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot");
+	src: url("../fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.woff") format("woff"), url("../fonts/MyriadProSemiBoldItalic/MyriadProSemiBoldItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
 .clear {
 	clear: both;
 }
@@ -72,9 +89,15 @@ body {
 	font-family: Georgia, serif;
 	color: #61403b;
 }
+
 body.bf {
-	background:#000 url(../img/30.png) no-repeat center 415px;
+	background: #000 url(../img/30.png) no-repeat center 415px;
 }
+
+body.bf-20 {
+	background: #000 url(../img/20.png) repeat-y center -110px;
+}
+
 a {
 	color: #61403b;
 	text-decoration: none;
@@ -98,13 +121,19 @@ a:hover {
 	height: 230px;
 	position: relative;
 }
+
 .bf .header {
 	height: 340px;
 }
+
 .header .cart {
 	height: 35px;
 	margin-bottom: -35px;
 	overflow: hidden;
+	position: relative;
+	z-index: 5;
+	float: right;
+	width: 106px;
 }
 
 .header .cart a {
@@ -122,20 +151,25 @@ a:hover {
 	border-radius: 0 0 10px 10px;
 	background-color: #97592c;
 	color: #ffe4cd;
+	transition: .3s;
 }
+
 .bf .header .cart a {
 	background-color: #808080;
-	color:#fff;
+	color: #fff;
 }
+
 .header .cart a:hover {
 	text-decoration: none;
 	background-color: #b9692e;
 	color: #ffe4cd;
 }
+
 .bf .header .cart a:hover {
 	background-color: #868686;
-	color:#fff;
+	color: #fff;
 }
+
 .header .info {
 	position: absolute;
 	width: 366px;
@@ -145,10 +179,12 @@ a:hover {
 	top: 58px;
 	text-align: right;
 }
+
 .bf .header .info {
-	top:168px;
-	color:#c0c0c0;
+	top: 168px;
+	color: #c0c0c0;
 }
+
 .header .info .phones {
 	font-family: Times, "Times new roman", sans-serif;
 	font-size: 32px;
@@ -159,10 +195,13 @@ a:hover {
 	color: #ffffff;
 	word-spacing: 1px;
 }
+
 .bf .header .info .phones {
 	background: url(../img/header-sep-white.png) no-repeat center bottom;
 }
-.header .info .phones span, .header .info .phones strong {
+
+.header .info .phones span,
+.header .info .phones strong {
 	font-size: 26px;
 	letter-spacing: 0;
 	font-weight: normal;
@@ -175,9 +214,11 @@ a:hover {
 	font-family: Georgia, serif;
 	word-spacing: 0;
 }
+
 .bf .header .info .phones .free {
-	color:#c0c0c0;
+	color: #c0c0c0;
 }
+
 .header .info .txt {
 	font-size: 20px;
 	line-height: 21px;
@@ -209,11 +250,13 @@ a:hover {
 	text-indent: -10000px;
 	overflow: hidden;
 }
+
 .bf .logo {
 	background: url(../img/logo-white.png) no-repeat;
-	top:153px;
+	top: 153px;
 	z-index: 4;
 }
+
 .nav {
 	display: block;
 	overflow: hidden;
@@ -235,6 +278,7 @@ a:hover {
 .bf .nav li {
 	border-left: 1px solid #fff;
 }
+
 .nav li:first-child {
 	border-left: none;
 	padding-left: 0;
@@ -251,7 +295,7 @@ a:hover {
 }
 
 .bf .nav a {
-	color:#fff;
+	color: #fff;
 }
 
 .nav a:hover {
@@ -286,9 +330,11 @@ a:hover {
 	overflow: hidden;
 	margin-bottom: 21px;
 }
+
 .bf .menu {
 	background: url(../img/gray-menu.png) repeat-x #7a481f;
 }
+
 .bf.inner .menu li,
 .menu li {
 	display: block;
@@ -296,9 +342,11 @@ a:hover {
 	height: 48px;
 	background: url(../img/menu-sep.png) no-repeat left center;
 }
+
 .bf .menu li {
 	background: url(../img/menu-sep-white.png) no-repeat left center;
 }
+
 .menu li:first-child {
 	background: none;
 }
@@ -458,7 +506,7 @@ h2 {
 }
 
 .bf .widget .item .title {
-	color:#000;
+	color: #000;
 }
 
 .widget .item p {
@@ -469,10 +517,12 @@ h2 {
 	background: url(../img/widget-dash.png) repeat-x left bottom;
 	padding-bottom: 23px;
 }
+
 .bf .widget .item p {
-	color:#000;
+	color: #000;
 	background: url(../img/widget-dash-gray.png) repeat-x left bottom;
 }
+
 .widget .item.last p {
 	background: none;
 }
@@ -526,7 +576,7 @@ h2 {
 }
 
 .big-cont {
-	padding: 0 22px;
+	padding: 0 0 32px;
 }
 
 .big-cont h2 {
@@ -616,9 +666,11 @@ h2 {
 	padding-top: 11px;
 	position: relative;
 }
+
 .clocks-grid .item .price.sale-price {
-	color:#219d00;
+	color: #219d00;
 }
+
 .clocks-grid .item .price span {
 	font-family: Georgia, serif;
 	font-size: 16px;
@@ -658,7 +710,7 @@ h2 {
 
 .product-card .view {
 	float: left;
-	width: 393px;
+	width: 415px;
 	margin-right: 25px;
 }
 
@@ -851,10 +903,12 @@ h2 {
 .product-card .right-part .price span {
 	font-size: 32px;
 }
+
 .product-card .right-part .price.sale-price {
 	line-height: 29px;
 	margin: -5px 0 12px;
 }
+
 .product-card .right-part .price.sale-price span {
 	font-size: 29px;
 	padding-left: 11px;
@@ -915,7 +969,7 @@ h2 {
 	padding-left: 8px;
 	width: 88px;
 	margin-right: 4px;
-	margin-left: 0;
+	margin-left: 22px;
 	padding-top: 11px;
 }
 
@@ -1068,135 +1122,158 @@ h2 {
 }
 
 .yellow-title {
-	background: url(../img/yellow-trans.png),
-		url(../img/big-30.png) no-repeat center 24px;
+	background: url(../img/yellow-trans.png), url(../img/big-30.png) no-repeat center 24px;
 	height: 103px;
 	width: 100%;
 	position: absolute;
-	top:43px;
-	left:0;
+	top: 43px;
+	left: 0;
 	z-index: 2;
 }
+
+.bf-20 .yellow-title {
+	background: url(../img/yellow-trans.png), url(../img/big-20.png) no-repeat center 24px;
+}
+
 .yellow-title .content-wrap {
 	position: relative;
 }
+
 .bf-logo {
 	float: left;
-	margin: 11px 0 0;
+	margin: 14px 0 0;
 	position: relative;
 	z-index: 4;
 }
+
 .ball {
 	width: 278px;
 	height: 278px;
 	background: url(../img/ball.png) no-repeat;
 	position: absolute;
-	top:-46px;
+	top: -46px;
 	left: -12px;
 	z-index: 3;
 }
+
 .yt-text {
 	text-align: right;
 	padding-top: 4px;
 	position: relative;
 	z-index: 4;
 }
+
 .yt-text .heading {
-	font:34px/38px MyriadProBold;
-	color:#fcf500;
+	font: 34px/38px MyriadProBold;
+	color: #fcf500;
 	text-transform: uppercase;
 	letter-spacing: 6px;
+	margin-right: -4px;
 }
+
 .yt-text .three-days {
-	font:30px/30px MyriadProRegular;
-	color:#fff;
+	font: 30px/30px MyriadProRegular;
+	color: #fff;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 }
-.yt-text .date {
-	font:19px MyriadProRegular;
-	color:#fcf500;
-	letter-spacing: 2px;
-}
-.yt-text .date strong {
+
+.yt-text .three-days b {
 	font-family: MyriadProBold;
 }
 
-.bf .clock-text {
-	color:#000;
+.yt-text .date {
+	font: 19px/30px MyriadProRegular;
+	color: #fcf500;
+	letter-spacing: 1px;
 }
+
+.yt-text .date strong {
+	font-family: MyriadProBold;
+	letter-spacing: 0;
+}
+
+.bf .clock-text {
+	color: #000;
+}
+
 .bf .widget h3 {
 	background-color: #808080;
-	color:#fff;
+	color: #fff;
 }
+
 .bf .widget.attached,
 .bf .widget .item {
 	background-color: #d0d0d0;
 }
+
 .bf .widget.attached h3 {
 	box-shadow: none;
 }
+
 .bf .counters {
 	background-color: #d0d0d0;
 }
+
 .introtext {
-    background-color: #EDDCC8;
-    margin: 0px 0px 16px -25px;
-    padding: 6px 35px 1px;
-    width: 790px;
+	background-color: #EDDCC8;
+	margin: 0px 0px 16px -25px;
+	padding: 6px 35px 1px;
+	width: 790px;
 }
+
 .introtext p {
-    margin: 0px 0px 7px;
+	margin: 0px 0px 7px;
 }
+
 .clocks-grid.napol .item .label {
-	left:0;
+	left: 0;
 }
+
 .clocks-grid .item .label {
-	left:61px;
+	left: 61px;
 	position: absolute;
-	top:0;
+	top: 0;
 }
+
 .clocks-grid .item .price .cross {
 	position: absolute;
-	top:8px;
-	left:35%;
+	top: 8px;
+	left: 35%;
 	width: 84px;
 	height: 22px;
-	background: url(../img/cross.png) no-repeat;	
+	background: url(../img/cross.png) no-repeat;
 }
+
 .product-card .right-part .price .cross,
 .clocks-grid.napol .item .price .cross {
-	left:16%;
+	left: 16%;
 }
+
 .product-card .right-part .price .cross {
 	position: absolute;
-	top:4px;
-	left:5%;
+	top: 4px;
+	left: 5%;
 	width: 110px;
 	height: 29px;
-	background: url(../img/cross-2.png) no-repeat;	
+	background: url(../img/cross-2.png) no-repeat;
 }
+
 .label-2 {
 	position: absolute;
-	top:42px;
-	left:-79px;
-} 
+	top: 42px;
+	left: -79px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.label-3 {
+	position: absolute;
+	top: 54px;
+	left: -83px;
+}
+//
+//
+//
+//
+//
+//
+//
