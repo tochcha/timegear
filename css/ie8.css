@@ -1,0 +1,13 @@
+.header .cart a,
+.menu,
+.menu .li1, .menu .li1 a,
+.menu .li4, .menu .li4 a,
+.content,
+.product-card .right-part .card,
+.product-card .right-part .buy,
+.product-card .actions a i,
+.counters
+{
+	position: relative;
+	behavior: url(css/pie.htc);
+}
